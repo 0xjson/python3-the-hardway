@@ -1,4 +1,5 @@
 # python3-the-hardway
 
-``` python3
+``` python
+python3
 ```
